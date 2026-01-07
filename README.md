@@ -62,8 +62,5 @@ I'm currently pursuing my **BS in Computer Networking & Telecommunication** at V
 ### 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TranRoger&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="TranRoger's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranRoger&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
-
+  <img src="https://github.com/TranRoger/TranRoger/blob/main/github-metrics.svg" alt="TranRoger's Generated Metrics" width="100%">
 </div>
