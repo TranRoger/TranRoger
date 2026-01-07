@@ -9,7 +9,7 @@ I'm currently pursuing my **BS in Computer Networking & Telecommunication** at V
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogertran5659)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anhth5659@gmail.com)
-[![](https://img.shields.io/badge/Portfolio-424242?style=for-the-badge&logo=About.me&logoColor=white)](https://TranRoger.github.io)
+[![](https://img.shields.io/badge/Portfolio-424242?style=for-the-badge&logo=About.me&logoColor=white)](https://tranroger.github.io/Portfolio/)
 
 </div>
 
