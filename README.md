@@ -1,62 +1,69 @@
-Hi there, I'm Tran Hung Anh! <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-Junior DevOps Engineer | Kubernetes Enthusiast | Cloud Native Builder
-
-Based in Ho Chi Minh City, I specialize in building resilient infrastructure, automating pipelines, and optimizing cloud costs. I'm currently pursuing my BS in Computer Networking & Telecommunication at VNUHCM.
-
-🔭 I’m currently working on Microservices Orchestration & AI-driven Apps
-
-🌱 I’m currently learning Advanced Kubernetes Security & Terraform
-
-💬 Ask me about CI/CD, AWS, and Docker
-
-📫 How to reach me: anhth5659@gmail.com
-
-🛠 Technical Arsenal
-
-Infrastructure & Cloud
-
-Containerization & Orchestration
-
-CI/CD & DevOps Tools
-
-Scripting & Languages
-
-🏆 Certifications
-
-AWS Certified Solutions Architect Associate (Active)
-
-Certified Kubernetes Administrator (CKA) (In Progress)
-
-Terraform Associate (Planned 2026)
-
-📈 GitHub Stats
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTranRoger%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="TranRoger's GitHub stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTranRoger%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Languages" />
+
+# Hi there, I'm Tran Hung Anh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### Junior DevOps Engineer | Kubernetes Enthusiast | Cloud Native Builder
+
+Based in **Ho Chi Minh City**, I specialize in building resilient infrastructure, automating pipelines, and optimizing cloud costs.  
+I'm currently pursuing my **BS in Computer Networking & Telecommunication** at VNUHCM.
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogertran5659)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anhth5659@gmail.com)
+[![](https://img.shields.io/badge/Portfolio-424242?style=for-the-badge&logo=About.me&logoColor=white)](https://TranRoger.github.io)
+
 </div>
 
-📂 Featured Projects
+---
 
-Budman AI Manager
+### 👨‍💻 About Me
 
-AI-driven budget manager providing intelligent spending suggestions using Google AI services.
-Tech: React Native, Node.js, Docker, Google AI
+- 🔭 I’m currently working on **Microservices Orchestration & AI-driven Apps**
+- 🌱 I’m currently learning **Advanced Kubernetes Security & Terraform**
+- 💬 Ask me about **CI/CD, AWS, and Docker**
+- 📫 How to reach me: **anhth5659@gmail.com**
 
-Microservices Orchestration System
+---
 
-Deployed a Java microservices architecture (PetClinic) to Kubernetes with a full GitOps workflow.
-Tech: Kubernetes, ArgoCD, Jenkins, Istio
+### 🛠 Technical Arsenal
+
+| Category | Stack |
+| :--- | :--- |
+| **Infrastructure & Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) |
+| **Containerization** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Istio](https://img.shields.io/badge/istio-%23466BB0.svg?style=flat&logo=istio&logoColor=white) |
+| **CI/CD & DevOps** | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argo-%23EF7B4D.svg?style=flat&logo=argo&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
+| **Languages & Scripting** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) |
+
+---
+
+### 🏆 Certifications
+
+| Certification | Status |
+| :--- | :--- |
+| **AWS Certified Solutions Architect – Associate** | ✅ **Active** |
+| **Certified Kubernetes Administrator (CKA)** | 🔄 **In Progress** |
+| **Terraform Associate** | 📅 **Planned 2026** |
+
+---
+
+### 📂 Featured Projects
+
+#### 🤖 **Budman AI Manager**
+> *AI-driven budget manager providing intelligent spending suggestions using Google AI services.*
+>
+> ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+#### ☸️ **Microservices Orchestration System**
+> *Deployed a Java microservices architecture (PetClinic) to Kubernetes with a full GitOps workflow.*
+>
+> ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/rogertran5659" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" target="_blank" />
-</a>
-<a href="mailto:anhth5659@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-</a>
-<a href="https://www.google.com/search?q=https://TranRoger.github.io" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-424242%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" target="_blank" />
-</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TranRoger&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="TranRoger's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranRoger&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+
 </div>
